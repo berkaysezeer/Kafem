@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kafem", "Kafem\Kafem.csproj", "{73776264-E64E-4917-A1A6-A57043C52047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kafem.Data", "Kafem.Data\Kafem.Data.csproj", "{3A66C265-5C57-4524-BADC-E4445C760090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73776264-E64E-4917-A1A6-A57043C52047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73776264-E64E-4917-A1A6-A57043C52047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73776264-E64E-4917-A1A6-A57043C52047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73776264-E64E-4917-A1A6-A57043C52047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A66C265-5C57-4524-BADC-E4445C760090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A66C265-5C57-4524-BADC-E4445C760090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A66C265-5C57-4524-BADC-E4445C760090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A66C265-5C57-4524-BADC-E4445C760090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64B07F31-D350-4601-B42F-64B8DC8D93CF}
+	EndGlobalSection
+EndGlobal
